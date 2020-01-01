@@ -13,5 +13,5 @@ This application uses OpenCV library to track any blue object in the frame (pref
 ## Program Execution
 To run the code, type
 ```
-python Webcam_Paint_OpenCV.py
+python Paint_OpenCV.py
 ```
