@@ -1,4 +1,4 @@
-# Paint-_app-OpenCV-python
+# Paint_app-OpenCV-python
 
 A simple web-cam  paint application using OpenCV and Python
 
