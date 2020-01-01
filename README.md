@@ -1,6 +1,5 @@
 # Paint_app-OpenCV-python
-
-A simple web-cam  paint application using OpenCV and Python
+    A simple web-cam  paint application using OpenCV and Python
 
 This application uses OpenCV library to track any blue object in the frame (preferrably a bottle cap) and uses the detected object to draw colored lines (Blue, Green, Red and Yellow).
 
