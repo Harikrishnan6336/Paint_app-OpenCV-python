@@ -7,6 +7,7 @@ This application uses OpenCV library to track any blue object in the frame (pref
 
 ## Code Requirements
  Python (version 3.6 or higher)
+ 
  OpenCV(preferrably version 4 or higher)
 
 ## Program Execution
